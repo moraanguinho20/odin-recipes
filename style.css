@@ -9,8 +9,15 @@ body {
 h1 {
     font-family: Brush Script MT, cursive;
     text-align: center;
+    background-color: #fbd87f;
+    color: #f75590;
 }
 
+li.recipes {
+    list-style-type: none;
+}
 .recipes a {
     text-decoration: none;
+    color: #f75590;
+    font-weight: bold;
 }
